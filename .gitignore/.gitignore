@@ -1,0 +1,183 @@
+<html>
+<head>
+<title>  </title>
+<style>
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+
+#nav {
+    width:635px;
+    padding:10px;
+    float:left;	 	 
+}
+    	      
+#section {
+    width:635px;
+    padding:10px;
+    float:right;	 	 
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+</style>
+</head>
+
+<body>
+
+<div id="header">
+<h1>City Gallery</h1>
+</div>
+
+<div id="nav" type="center">
+<form style="font-size:25px">
+时间：<input type="text" style="font-size:25px" name="time1">
+</form>
+<table>
+<tr style="font-size:25px;text-align:center;color:red;"><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;颜艳杰&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;黄俊霖&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;刘丽君</td></tr>
+</table>
+上午：
+<table border="1">
+<tr>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+</tr>
+
+<tr>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+</tr>
+
+<tr>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+</tr>
+<tr>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+</tr>
+</table>
+<br>
+
+下午：
+<table border="1">
+<tr>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+</tr>
+
+<tr>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+</tr>
+
+<tr>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+</tr>
+
+<tr>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+</tr>
+
+<tr>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+</tr>
+
+</table>
+</div>
+
+<div id="section" type="center">
+<form style="font-size:25px">
+时间：<input type="text" style="font-size:25px" name="time2">
+</form>
+<table>
+<tr style="font-size:25px;text-align:center;color:red;"><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;颜艳杰&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;黄俊霖&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;刘丽君</td></tr>
+</table>
+上午：
+<table border="1">
+<tr>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+</tr>
+
+<tr>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+</tr>
+
+<tr>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+</tr>
+<tr>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+</tr>
+</table>
+<br>
+
+<table border="1">
+下午：
+<tr>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+</tr>
+
+<tr>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+</tr>
+
+<tr>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+</tr>
+
+<tr>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+</tr>
+
+<tr>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+<td><input type="text" style="font-size:20px"></td>
+</tr>
+
+</table>
+</div>
+
+<div id="footer">
+Copyright ? W3Schools.com
+</div>
+
+</body>
+
+</html>
